@@ -1,0 +1,8 @@
+streamlit>=1.37
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+requests
+tzdata
